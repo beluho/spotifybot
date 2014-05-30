@@ -1,0 +1,9 @@
+('C:\\Users\\spotify\\Desktop\\Spotifybot\\build\\spotify_bot_2.0\\spotify_bot_2.0.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1395398070L)
