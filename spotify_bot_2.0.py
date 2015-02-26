@@ -316,8 +316,8 @@ class SpotifyJabberControlBot(JabberBot):
             return "Bo!"
 		
 		
-username = 'jar.spotify@gmail.com'
-password = 'jarhead01'
+username = 'your@user.com'
+password = 'yourpass'
 server = 'talk.google.com'
 
 pytify = Spotify()
